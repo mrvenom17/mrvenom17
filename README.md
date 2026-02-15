@@ -1,103 +1,115 @@
-<h1 align="center">👋 I'm Alay Sharma</h1>
-<h3 align="center">AI-Native Security Engineer · Agent Architect · OSS Builder</h3>
+<h1 align="center">Hi, I'm Alay Sharma</h1>
+<h3 align="center">Applied ML & Security Engineer · GeoAI & Detection Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrvenom17&label=Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mrvenom17&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/mrvenom17?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Remote-Internships|AI|Cybersecurity-blueviolet" />
 </p>
 
+---
+
+## Overview
+
+I’m a final-year Computer Science student focused on **applied ML systems for security and geospatial intelligence**.
+
+My work centers on **decision pipelines**, not just models — reducing false positives, handling ambiguity, and designing systems that remain reliable under real-world constraints like latency, noise, and partial data.
+
+I build **research-grade prototypes** that are production-aware and measurable.
 
 ---
 
-## About Me
+## What I Work On
 
-- Security + AI hybrid with a focus on autonomy and agentic systems
-- I build tools that *think, react, and adapt* — not just run
-- Core builder of IntelPatch (multi-agent CVE analyzer) and threat-aware OSINT bots
-- Mission: Automate threat detection, decisioning, and patching
-
-
-> “I don’t just write code. I build systems that think, act, and adapt.”
+- Applied ML for **threat detection and anomaly identification**
+- **CVE automation and OSINT pipelines** using agent-based workflows
+- **GeoAI systems** combining remote sensing and post-prediction verification
+- Backend systems for **low-latency, async decisioning**
 
 ---
 
-## Tech Stack
+## Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,flask,react,tensorflow,docker,linux,bash,git" alt="tech stack"/><br/>
-  <img src="https://skillicons.dev/icons?i=vercel,github,aws,mongodb,vscode" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,flask,pytorch,docker,linux,bash,git" />
 </p>
 
----
-
-## Featured Projects
-
-### [IntelPatch](https://github.com/mrvenom17/intel-patch)
-> Multi-agent CVE intelligence engine built using OWL (CamelAI)  
-> Offline-capable · 94% patch accuracy · Python + Flask + Ollama
+**Also experienced with:**  
+AsyncIO · REST APIs · ELK stack · Vector databases · LLM integration (RAG, agents) · PostgreSQL
 
 ---
 
-### [AI Threat Intel](https://github.com/mrvenom17/SIHP1743-Pre-Qualifiers-)
-> NLP + ML-powered OSINT threat surge detector  
-> Uses time-series anomaly detection on security feeds to flag early threats
+## Selected Projects
+
+### 🔐 IntelPatch — Automated CVE Intelligence Pipeline  
+[github.com/mrvenom17/intel-patch](https://github.com/mrvenom17/intel-patch)
+
+Multi-agent system that ingests CVE data, correlates exploitability signals, and assists patch prioritization.
+
+- Agent-based architecture (Python)
+- Offline-capable inference (local LLMs)
+- Designed to reduce alert fatigue and manual triage
+- Flask-based API with modular agents
 
 ---
 
-### [Stock Predictor](https://github.com/mrvenom17/Stock-Market-Prediction)
-> LSTM + technical indicators to forecast short-term stock movement  
-> Built using Python, Pandas, Matplotlib, Keras
+### 🌍 AI Threat Intelligence (OSINT)  
+[github.com/mrvenom17/SIHP1743-Pre-Qualifiers-](https://github.com/mrvenom17/SIHP1743-Pre-Qualifiers-)
+
+Threat-surge detection system using NLP and time-series analysis over OSINT feeds.
+
+- Early-warning detection via anomaly scoring
+- Focus on **signal validation**, not keyword noise
+- Built for research and prototyping use-cases
 
 ---
 
-## Core Domains
+### 📈 ML Systems (Exploratory)  
+[github.com/mrvenom17/Stock-Market-Prediction](https://github.com/mrvenom17/Stock-Market-Prediction)
 
-| Area         | Focus                                                  |
-|--------------|---------------------------------------------------------|
-| AI/ML        | NLP · Anomaly Detection · Embeddings · Vector Search    |
-| Cybersecurity| CVE Automation · OSINT · AI for Red Teams               |
-| Backend Dev  | Flask · Async APIs · Microservices · Task Queues        |
-| Infra & Tools| Docker · GitHub Actions · CLI Tools · Agent Systems     |
-
----
-## What I'm Looking For
-
-- Remote internships (AI x Security, Red Team, Agent Systems)
-- Collaboration on OSS security tools / AI agents
-- Research projects involving cybernetics, LLMs, or system intelligence
+Exploratory ML work using LSTM + technical indicators.  
+Included for ML fundamentals; **not a production trading system**.
 
 ---
 
-## Publications
+## Domains of Focus
 
-**[Hack-Proof Yourself](https://aceadventurer4.gumroad.com/l/glhmn)**  
-> A practical cybersecurity guide for digital natives and SMBs — focused on real-world defense, tools, and mindset.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvenom17&show_icons=true&theme=radical&hide=stars&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvenom17&layout=compact&theme=radical" height="160"/>
-</p>
+| Area | Focus |
+|-----|------|
+| Applied ML | Anomaly detection · NLP · embeddings · ensemble systems |
+| Cybersecurity | CVE automation · OSINT · detection engineering |
+| GeoAI | Remote sensing · post-prediction verification · crisis mapping |
+| Systems | Async Python · APIs · modular pipelines · latency tradeoffs |
 
 ---
 
-## Connect With Me
+## Writing & Publications
 
-- Email: [alaysharma17@gmail.com](mailto:alaysharma17@gmail.com)  
-- Portfolio: [moonlit-klepon-30e315.netlify.app](https://moonlit-klepon-30e315.netlify.app)  
-- LinkedIn: [alay-sh](https://linkedin.com/in/alay-sh)  
-- GitHub: [mrvenom17](https://github.com/mrvenom17)
-
-<p align="center">
-  <a href="https://linkedin.com/in/alay-sh"><img src="https://img.shields.io/badge/LinkedIn-Alay-blue?logo=linkedin" /></a>
-  <a href="https://github.com/mrvenom17"><img src="https://img.shields.io/badge/GitHub-mrvenom17-lightgray?logo=github" /></a>
-  <a href="https://moonlit-klepon-30e315.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Site-green?logo=vercel" /></a>
-</p>
+**Hack-Proof Yourself**  
+A practical cybersecurity guide focused on real-world threats, tooling, and mindset.  
+[View publication](https://aceadventurer4.gumroad.com/l/glhmn)
 
 ---
 
-> ⚔️ *Simplicity. Sovereignty. Systems Thinking.*
+## What I’m Open To
+
+- **Entry-level / junior roles** in:
+  - Security engineering
+  - Applied ML / detection engineering
+  - GeoAI / spatial analytics
+- Research-oriented internships or collaborations
+- Open-source security and ML systems
+
+---
+
+## Contact
+
+- Email: **alaysharma17@gmail.com**
+- LinkedIn: https://linkedin.com/in/alay-sh
+- Portfolio: https://moonlit-klepon-30e315.netlify.app
+- GitHub: https://github.com/mrvenom17
+
+---
+
+> Systems over slogans.  
+> Evidence over hype.  
+> Tradeoffs over dogma.
