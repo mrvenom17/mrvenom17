@@ -52,8 +52,8 @@ Multi-agent system that ingests CVE data, correlates exploitability signals, and
 
 ---
 
-### 🌍 AI Threat Intelligence (OSINT)  
-[github.com/mrvenom17/SIHP1743-Pre-Qualifiers-](https://github.com/mrvenom17/SIHP1743-Pre-Qualifiers-)
+### 🌍 GeoRiskNavigator — GeoAI Crisis Risk Assessment
+[https://github.com/mrvenom17/GeoRisk-Navigator](https://github.com/mrvenom17/GeoRisk-Navigator)
 
 Threat-surge detection system using NLP and time-series analysis over OSINT feeds.
 
@@ -87,6 +87,16 @@ Included for ML fundamentals; **not a production trading system**.
 **Hack-Proof Yourself**  
 A practical cybersecurity guide focused on real-world threats, tooling, and mindset.  
 [View publication](https://aceadventurer4.gumroad.com/l/glhmn)
+
+**Adaptive IPS with Honeypot Feedback Loops**  
+_Status: Under review (ICETICS 2025)_  
+Focus: False-positive reduction via staged validation and dynamic honeypots  
+Artifacts: Architecture diagram · Evaluation notebook · Dataset notes
+
+**Real-Time Crisis Mapping using SAR + NLP**  
+_Status: Draft / Preprint_  
+Focus: Post-prediction verification in data-rich EO pipelines  
+Artifacts: Methodology draft · Ablation notes
 
 ---
 
