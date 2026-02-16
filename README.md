@@ -115,7 +115,7 @@ Artifacts: Methodology draft · Ablation notes
 
 - Email: **alaysharma17@gmail.com**
 - LinkedIn: https://linkedin.com/in/alay-sh
-- Portfolio: https://moonlit-klepon-30e315.netlify.app
+- Portfolio: https://alaysharma.netlify.app/
 - GitHub: https://github.com/mrvenom17
 
 ---
